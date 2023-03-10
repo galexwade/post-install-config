@@ -110,3 +110,7 @@ Lastly, we are going to configure some help topics. <a href="https://docs.ostick
 <img src="https://i.imgur.com/RAUeSnP.png" height="80%" width="80%" alt="Help Topics in osTicket"/>
 </p>
 <br />
+
+<p>
+Last part: <a href="https://github.com/galexwade/ticket-lifecycle">osTicket Ticket Lifecycle: Intake through resolution</a>
+</p>

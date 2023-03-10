@@ -65,7 +65,7 @@ Next, we are going to allow anyone to create tickets. So go to Admin Panel -> Se
 
 <!--- Step 5 -->
 <p>
-Next, we are going to create some <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">agents</a>. Click Admin Panel -> Agents -> Agents -> Add New Agent. We're going to create two agents, Jane and John Doe. For the email address for both of these agents use "firstname.lastname@osticket.com" and use "Password1" for the password. Under the Access tab, assign Jane as a System Administrators department with Supreme Admin permissions and assign her to Level II Support team. Assign John Doe to the Support team and with view only permissions.
+Next, we are going to create some <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">agents</a>. Click Admin Panel -> Agents -> Agents -> Add New Agent. We're going to create two agents, Jane and John Doe. For the email address for both of these agents use "firstname.lastname@osticket.com" and use "Password1" for the password. Under the Access tab, assign Jane as a System Administrators department with Supreme Admin permissions, assign her to Level II Support team, and give extended access as Support. Assign John Doe to the Support team and with view only permissions.
 </p>
 <p>
 <img src="https://i.imgur.com/NIbAkQh.png" height="80%" width="80%" alt="Agents in osTicket"/>
